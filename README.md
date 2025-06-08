@@ -8,6 +8,8 @@ This project is an interactive *Sales Dashboard* built using *Power BI* to analy
 ![Madhav sales](https://github.com/user-attachments/assets/fd86fb16-59b2-4fee-853c-12991af3d669)
 
 
+
+
 ## Features
 
 ✅ Total Sales Amount  
@@ -25,6 +27,8 @@ This project is an interactive *Sales Dashboard* built using *Power BI* to analy
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Data Visualization Techniques
+
+
 
 ## Insights
 
